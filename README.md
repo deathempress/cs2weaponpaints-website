@@ -1,2 +1,2 @@
 # cs2weaponpaints-website
-Kendi tasarımımla.
+With my own CSS and design.
